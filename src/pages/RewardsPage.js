@@ -370,7 +370,7 @@ class RewardsPage extends React.Component {
 		return(
 			<div className = "rewardPageContainer">
 				<div className = "mainHeader">
-					<h2>Miles Take Home Challenge | Manpreet Singh</h2>
+					<h2>Rewards to Categories</h2>
 				</div>
 
 				<div className = "redoButtonCluster">
